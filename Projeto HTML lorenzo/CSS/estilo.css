@@ -1,5 +1,5 @@
 body{
-    background-color: #fff;/* Cor do plano de fundo */
+    background-color: rgb(70, 41, 177);/* Cor do plano de fundo */
     background-image: url("../Imagens/pexels-mikebirdy-120049.jpg");
     color: #fff; /* Cor da fonte */
     font-size: 30px; /* Tamanho da fonte */
@@ -93,3 +93,5 @@ a{
     font: 130%;
     border-radius: 50%;
 }
+
+   
